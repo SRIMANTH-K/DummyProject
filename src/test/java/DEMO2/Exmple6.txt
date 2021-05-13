@@ -3,3 +3,13 @@ package DEMO6;
 public class Example6 {
 
 }
+package DEMO7;
+
+public class Example7 {
+
+}
+package DEMO8;
+
+public class Example8 {
+
+}
